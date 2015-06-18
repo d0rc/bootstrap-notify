@@ -20,7 +20,7 @@
     ],
     "dependencies": {
         "jquery": ">=1.10.2",
-        "bootstrap": ">=2.0.0"
+        "bootstrap-css": ">=2.0.0"
     },
     "license": "MIT",
     "ignore": []
